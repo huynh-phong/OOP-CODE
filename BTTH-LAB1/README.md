@@ -50,11 +50,14 @@ Calculate the **average score** and output the result.
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:huynhphongff2@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=huynhphongff2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/huynh-phong">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.facebook.com/huynh.phong.665301/">
+    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook">
   </a>
 </p>
 
