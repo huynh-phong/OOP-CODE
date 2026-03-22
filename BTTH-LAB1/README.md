@@ -15,22 +15,30 @@ This repository contains practice exercises for the **Object-Oriented Programmin
 
 ## ⁉️ Problems
 
-### 🔹 Exercise 1
-Write a program that takes a fraction as input, simplifies it, and outputs the result.
+### 🔹 Exercise 1 - Simplify Fraction
+- 📄 Description: Write a program that takes a fraction as input, simplifies it, and outputs the result.  
+- 💡 Idea: Use **Euclid’s algorithm** to find GCD for simplification.  
+- 📂 Code: [Exercise_1.cpp](./Exercise_1.cpp)
 
-### 🔹 Exercise 2
-Write a program that takes two fractions as input, finds the largest fraction, and outputs the result.
+### 🔹 Exercise 2 - Find Largest Fraction
+- 📄 Description: Write a program that takes two fractions as input and finds the largest fraction.  
+- 💡 Idea: Compare fractions by **cross multiplication**.  
+- 📂 Code: [Exercise_2.cpp](./Exercise_2.cpp)
 
-### 🔹 Exercise 3
-Write a program that takes two fractions as input.  
-Calculate their **sum, difference, product, and quotient**, and output the result.
+### 🔹 Exercise 3 - Fraction Operations
+- 📄 Description: Write a program that takes two fractions as input. Calculate **sum, difference, product, quotient**.  
+- 💡 Idea: Convert to common denominator for addition/subtraction, multiply/divide normally for product/quotient.  
+- 📂 Code: [Exercise_3.cpp](./Exercise_3.cpp)
 
-### 🔹 Exercise 4
-Write a program that takes a date as input, finds the **next date**, and outputs the result.
+### 🔹 Exercise 4 - Next Date
+- 📄 Description: Write a program that takes a date as input and outputs the next date.  
+- 💡 Idea: Check **month length** + leap year rules to calculate next date.  
+- 📂 Code: [Exercise_4.cpp](./Exercise_4.cpp)
 
-### 🔹 Exercise 5
-Write a program that takes a student's **full name, math score, and literature score** as input.  
-Calculate the **average score** and output the result.
+### 🔹 Exercise 5 - Student Average Score
+- 📄 Description: Write a program that takes a student’s **full name, math score, and literature score**, then calculates the average score.  
+- 💡 Idea: Average = (Math + Literature)/2; output with formatting.  
+- 📂 Code: [Exercise_5.cpp](./Exercise_5.cpp)
 
 ---
 
